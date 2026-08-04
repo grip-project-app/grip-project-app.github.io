@@ -207,9 +207,9 @@ h1 {
       linear-gradient(0deg, rgba(255,255,255,.97) 0%, rgba(255,255,255,.18) 42%, rgba(255,255,255,0) 70%);
   }
 
-  .brand { top: 18px; gap: 8px; }
-  .brand__logo { width: 86px; }
-  .brand__name { max-width: 190px; font-size: .74rem; font-weight: 450; }
+  .brand { top: 8px; gap: 0; }
+  .brand__logo { width: 92px; margin-bottom: -30px; }
+  .brand__name { max-width: 185px; font-size: .72rem; font-weight: 450; line-height: 1.25; }
 
   .site-nav {
     justify-content: flex-start;
