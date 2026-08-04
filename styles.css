@@ -198,7 +198,7 @@ h1 {
 .next-link:focus-visible { border-bottom-color: #203b5c; }
 
 @media (max-width: 720px) {
-  .hero { min-height: 260px; }
+  .hero { min-height: 220px; }
 
   .hero__shade {
     background:
