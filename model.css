@@ -205,7 +205,7 @@
 
 @media (max-width: 900px) and (orientation: landscape) {
   .hero--model {
-    min-height: 210px;
+    min-height: 160px;
   }
 
   .hero--model .hero__background {
