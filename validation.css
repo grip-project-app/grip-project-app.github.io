@@ -1,12 +1,30 @@
 /* Validation page additions. Loaded after styles.css. */
 
 .hero--validation {
+  position: relative;
+  height: 290px;
   min-height: 290px;
+  overflow: hidden;
   background: #edf5fb;
 }
 
-.hero--validation .brand {
-  display: none;
+.hero--validation picture {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.hero--validation .hero_background {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: fill;
+  object-position: center;
 }
 
 .hero__shade--validation {
