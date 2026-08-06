@@ -16,7 +16,7 @@
   height: 100%;
 }
 
-.hero--validation .hero_background {
+.hero--validation .hero__background {
   position: absolute;
   inset: 0;
   display: block;
