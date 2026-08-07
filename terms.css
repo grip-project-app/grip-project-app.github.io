@@ -145,7 +145,7 @@
     margin-right: 26px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 720px) {
   .hero--terms .brand {
     display: none;
   }
